@@ -60,6 +60,13 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
+                    <connections>
+                        <outlet property="Choice1" destination="rZg-EC-A4u" id="606-nx-WW8"/>
+                        <outlet property="Choice1Button" destination="rZg-EC-A4u" id="sdR-9Y-G19"/>
+                        <outlet property="Choice2" destination="o3Z-ww-kwx" id="soo-qE-pzP"/>
+                        <outlet property="Choice2Button" destination="o3Z-ww-kwx" id="o8R-BS-cfr"/>
+                        <outlet property="StoryLabel" destination="UQp-Mw-mw1" id="RS0-h2-0Oc"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
